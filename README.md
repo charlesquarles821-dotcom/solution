@@ -31,21 +31,14 @@ This system implements an algorithm for Thoughtful's robotic automation factory 
 - Python 3.7 or higher
 - No external dependencies required
 
-### Running Locally
+### Running the Solution
 ```bash
-# Clone or download the solution.py file
-# Navigate to the directory containing the file
+# Navigate to the directory containing the solution
 cd /path/to/solution
 
 # Run the complete test suite
 python3 solution.py
 ```
-
-### Running on Replit
-1. Go to [replit.com](https://replit.com)
-2. Create a new Python Repl
-3. Copy the contents of `solution.py` into `main.py`
-4. Click "Run" to execute the test suite
 
 ## Usage
 
