@@ -119,7 +119,7 @@ def run_comprehensive_tests() -> None:
         (160, 10, 10, 25, "REJECTED", "Heavy and bulky by dimension"),
         (149, 149, 45, 19, "STANDARD", "Edge case: just under thresholds"),
         (150, 10, 10, 19, "SPECIAL", "Edge case: exactly at dimension threshold"),
-        (99, 99, 101.01, 19, "SPECIAL", "Edge case: exactly at volume threshold"),
+        (100, 100, 100, 19, "SPECIAL", "Edge case: exactly at volume threshold"),
         (10, 10, 10, 20, "SPECIAL", "Edge case: exactly at mass threshold"),
     ]
     
